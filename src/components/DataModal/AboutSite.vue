@@ -28,7 +28,7 @@
         <n-a
           v-if="icp"
           class="beian"
-          href="https://beian.miit.gov.cn/"
+          href="https://icp.gov.moe/?keyword=20239010"
           target="_blank"
           v-html="icp"
         />
