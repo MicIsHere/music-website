@@ -42,7 +42,7 @@
         <template #icon>
           <n-icon :component="GithubOne" />
         </template>
-        Github
+        CuteMic的主页
       </n-button>
     </div>
   </n-modal>
